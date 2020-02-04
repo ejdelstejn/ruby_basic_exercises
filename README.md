@@ -1,4 +1,4 @@
 <b>Read Me</b>
 <p>
-Exercises, assessments and practice problems from Launch School's LS100 course, "Programming and Back-End Prep".
+Basic exercises from Launch School's RB100, "Programming and Back-End Prep".
 </p>
